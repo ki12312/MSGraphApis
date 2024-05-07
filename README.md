@@ -1,2 +1,2 @@
-# RN-backend
- NodeJS Backend For RN Teams App
+# Happy-backend
+ NodeJS Backend For Happy Teams App
